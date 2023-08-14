@@ -40,3 +40,6 @@ This is my GiHubUser Application Repo
 <a href="https://www.youtube.com/watch?v=ZOZilgvC7Do">
    <img src="https://img.youtube.com/vi/ZOZilgvC7Do/0.jpg" alt="Demo Video" width="300" height="200">
 </a>
+
+## Contact
+[Muhamad Arif Boediman](https://www.linkedin.com/in/muhamad-arif-boediman-885672242/) - marifboediman772@gmail.com
