@@ -1,11 +1,20 @@
 <h1 align = "center">GitHubUser-Application</h1> 
 
 ## About The Project
-This is my GiHubUser Application Repo
+GitHubUser-Application is an application that I created to complete my submission for the 'Learn Fundamental Android Application' (Belajar Fundamental Aplikasi Android) course on the Dicoding Platform. This app provides information about all the users that use Github.
 
 ### Built With
 *  <a href="https://kotlinlang.org">Kotlin</a> - A high level programming language developed by JetBrains and approved by Google for developing Android app
 *  <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuNemBhCBARIsADp74QTEiyAfq8MOrja7FuoI-ueWPJ8Z3rwf4kXSl9pF_JrRMLEg34RjD_oaAiQJEALw_wcB&gclsrc=aw.ds">Android Studio</a> - The official Integrated Development Environment (IDE) for creating Android app
+
+## Library
+* [Glide]
+* [Retrofit]
+* [Circleimageview]
+* [Viewpager2]
+* [Livedata]
+* [Room]
+* [Data Store preferences]
 
 ### Features
 * Splash Screen
