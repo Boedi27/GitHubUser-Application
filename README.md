@@ -41,5 +41,12 @@ This is my GiHubUser Application Repo
    <img src="https://img.youtube.com/vi/ZOZilgvC7Do/0.jpg" alt="Demo Video" width="300" height="200">
 </a>
 
+## Getting Started
+### Prerequisite
+In order to use the features of the app you need to change the code on the ***ApiConfig Class*** with your own Github Personal Acces Token
+```sh
+.addHeader("Authorization", "token YOUR_PERSONAL_GITHUB_TOKEN")
+```
+For more information about how to get the token please read this documentation: [How To Get Your Personal Acces Token](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 ## Contact
 [Muhamad Arif Boediman](https://www.linkedin.com/in/muhamad-arif-boediman-885672242/) - marifboediman772@gmail.com
