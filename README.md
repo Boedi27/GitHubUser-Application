@@ -7,14 +7,17 @@ GitHubUser-Application is an application that I created to complete my submissio
 *  <a href="https://kotlinlang.org">Kotlin</a> - A high level programming language developed by JetBrains and approved by Google for developing Android app
 *  <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuNemBhCBARIsADp74QTEiyAfq8MOrja7FuoI-ueWPJ8Z3rwf4kXSl9pF_JrRMLEg34RjD_oaAiQJEALw_wcB&gclsrc=aw.ds">Android Studio</a> - The official Integrated Development Environment (IDE) for creating Android app
 
-## Library
-* [Glide]
-* [Retrofit]
-* [Circleimageview]
-* [Viewpager2]
-* [Livedata]
-* [Room]
-* [Data Store preferences]
+### Library
+* [Glide](https://github.com/bumptech/glide)
+* [Retrofit2](https://github.com/square/retrofit)
+* [Circleimageview](https://github.com/hdodenhof/CircleImageView)
+* [Viewpager2](https://developer.android.com/jetpack/androidx/releases/viewpager2)
+* [Livedata](https://developer.android.com/topic/libraries/architecture/livedata)
+* [Room](https://developer.android.com/training/data-storage/room)
+* [Data Store Preferences](https://developer.android.com/codelabs/android-preferences-datastore#0)
+
+### Architecture
+* [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 ### Features
 * Splash Screen
